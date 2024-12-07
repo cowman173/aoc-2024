@@ -1,0 +1,13 @@
+{
+  "name": "aoc-2024",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "type": "module",
+  "scripts": {
+    "d7": "tsx ./src/d7.ts"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.2",
+    "@types/node": "^22.10.1"
+  }
+}
